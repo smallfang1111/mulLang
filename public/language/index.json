@@ -1,0 +1,16 @@
+{
+    "data": [
+      {
+        "itemCode": "zh",
+        "itemName": "简体中文",
+        "elementCode": "zh",
+        "url": "/web/language/zh.js"
+      },
+      {
+        "itemCode": "en",
+        "itemName": "Englist",
+        "elementCode": "en",
+        "url": "/web/language/en.js"
+      }
+    ]
+}
